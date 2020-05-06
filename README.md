@@ -1,5 +1,10 @@
 # vue-skyway
 
+## description
+
+[skyway](https://webrtc.ecl.ntt.com/)の[example](https://webrtc.ecl.ntt.com/)をvuejsのcomponentの中で簡単に試してみたサンプル。
+
+
 ## Project setup
 ```
 npm install
